@@ -1,24 +1,73 @@
-## Olá! Eu sou Jonathan Vinicius 🖐️
+<h1 align='center'>
+  Hello, I'm Jonathan Vinicius!
+  <br/>
+  Welcome to my page :)
+</h1>
+<p align='center'>
+  Fullstack
+</p>
 
-[![Blog](https://img.shields.io/website?label=JonathanDesenvolvedor.com&style=for-the-badge&url=)](https://jonathandeveloper.netlify.app/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jonathan_desenvolvedor/)
-[![WhatsApp](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://api.whatsapp.com/send?phone=5519992000434)
+### 🌻 About Me:
 
-![Jonathan GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonathanfullstack&show_icons=true&theme=dracula&count_private=true)
+<p>
+  <em>
+    I'm 20 years old, from São Paulo 
+  </em>
+</p>
 
-## Tecnologias que eu uso no meu dia
+- 📚 Studying and improving my skills in NestJS, Observability and Design Patterns.
+- 🚀 Student at UniMax-MaxPlank.
+- 📫 My personal email: jonathantotini@gmail.com
 
-<div style="display: inline_block">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-</div><br/>
+### 📊 2024 Goals:
+
+- 📚 I will become developer.
+
+- 📋 Create a personal project that applies all the knowledge obtained throughout my journey, as well as implementing new technologies.
 
 
-<!---
-Jonathanfullstack/Jonathanfullstack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### ⚡ Technologies:
+
+These are some of the technologies and tools I use:
+
+- Languages
+
+[![Minhas Habilidades](https://skillicons.dev/icons?i=js,ts,nodejs,py)](https://skillicons.dev)
+
+- Frontend
+
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,jquery,react,next,redux,sass,styledcomponents,tailwind,jest,bootstrap)](https://skillicons.dev)
+
+- Backend
+
+[![Minhas Habilidades](https://skillicons.dev/icons?i=express,nest,docker,prisma,jest,firebase)](https://skillicons.dev)
+
+- Database
+
+[![Minhas Habilidades](https://skillicons.dev/icons?i=mongodb,mysql,postgres)](https://skillicons.dev)
+
+- Tools
+
+[![Minhas Habilidades](https://skillicons.dev/icons?i=aws,azure,git,github,githubactions,gitlab,vitest,grafana,elasticsearch,figma,postman)](https://skillicons.dev)
+
+### 📈 My Statistics
+
+| My Statistics                                                                                                                                                            | Top Languages                                                                                                                                                                    |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=Jonathanfullstack&show_icons=true&hide_border=true&count_private=true&theme=jolly) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathanfullstack&langs_count=10&count_private=true&hide_border=true&theme=jolly&layout=compact) |
+
+
+| My Streak                                                                                                                                                             |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [![GitHub Streak](https://streak-stats.demolab.com/?user=Jonathanfullstack&theme=jolly)](https://git.io/streak-stats) |
+
+💬 Want to get in touch?
+
+<div>
+  <a href = "https://open.spotify.com/user/21n5kjzxtxsswwv2o3v47ktsa"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jonathan-vinicius" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://api.whatsapp.com/send/?phone=%2B5519992000434&text&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href = "mailto:jonathantotini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+<br>
+<p>🧠 <span style="font-style:italic">"Learning is the only thing the mind never exhausts, never fears, and never regrets."</span></p>
