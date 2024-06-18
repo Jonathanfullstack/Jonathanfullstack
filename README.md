@@ -15,7 +15,7 @@
   </em>
 </p>
 
-- 📚 Studying and improving my skills in NestJS,React, TypeScript Observability and Design Patterns.
+- 📚 Studying and improving my skills in NestJS, React, TypeScript Observability and Design Patterns.
 - 🚀 Student at UniMax-MaxPlank.
 - 📫 My personal email: jonathantotini@gmail.com
 
