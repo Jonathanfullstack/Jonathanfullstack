@@ -74,4 +74,4 @@ These are some of the technologies and tools I use:
 <p>🧠 <span style="font-style:italic">"Learning is the only thing the mind never exhausts, never fears, and never regrets."</span></p>
 
 
-![Snake animation with GitHub Contributions Chart](https://github.com/Jonathanfullstack/Jonathanfullstack/blob/snake-output/github-contribution-grid-snake.svg)
+
