@@ -16,7 +16,7 @@
 </p>
 
 - 📚 Studying and improving my skills in NestJS, React, TypeScript Observability and Design Patterns.
-- 🚀 Student at UniMax-MaxPlank.
+- 🚀 Student at CEUNSP-Salto.
 - 📫 My personal email: jonathantotini@gmail.com
 
 ### 📊 2024 Goals:
