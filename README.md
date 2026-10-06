@@ -53,6 +53,30 @@ const jonathan = {
 
 ---
 
+## 🔭 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/Jonathanfullstack/crm-jbdev"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Jonathanfullstack&repo=crm-jbdev&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00ff9f&text_color=c9d1d9" alt="crm-jbdev"/></a>
+<a href="https://github.com/Jonathanfullstack/barber-jb"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Jonathanfullstack&repo=barber-jb&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00ff9f&text_color=c9d1d9" alt="barber-jb"/></a>
+<a href="https://github.com/Jonathanfullstack/JBdev"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Jonathanfullstack&repo=JBdev&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00ff9f&text_color=c9d1d9" alt="JBdev"/></a>
+
+</div>
+
+| Project | What it is | Stack |
+| :------ | :--------- | :---- |
+| 🎯 **[CRM · JBDev](https://github.com/Jonathanfullstack/crm-jbdev)** | White-label, multi-tenant sales CRM: leads, kanban pipeline, proposals, tasks, reports and lead-capture API/webhook | Next.js · TypeScript · Prisma · PostgreSQL · shadcn/ui |
+| 💈 **[Barber JB](https://github.com/Jonathanfullstack/barber-jb)** | Booking & management SaaS for barbershops with public booking pages, admin panel and Stripe subscriptions | Next.js · React 19 · Prisma · PostgreSQL · Stripe |
+| ⚡ **[JB DEV](https://www.jbdev.com.br)** | My studio's website: custom websites and systems ([source](https://github.com/Jonathanfullstack/JBdev)) | HTML · CSS · JavaScript · GSAP · Vercel |
+| 🛒 **JB Commerce** 🔒 | Desktop app for sellers: inventory, orders, sales and marketplaces in one place | NestJS · Tauri · React · Prisma · PostgreSQL · Redis |
+| 🏠 **CRM Imobiliário** 🔒 | Real-estate CRM: leads, properties, deal pipeline, WhatsApp inbox and VRSync portal feed | Next.js 16 · Prisma · PostgreSQL · Vitest |
+| 💰 **finance.ai** 🔒 | Personal finance SaaS with monthly dashboard, categories and per-user data isolation | React · Express · Prisma · PostgreSQL · JWT |
+| 🧰 **JB Business Suite** 🔒 | Tools for small businesses (PDF documents, calculators, sales materials) with a central account & access hub | React · TypeScript · Vite · Vercel |
+
+<sub>🔒 Private repository: code available on request.</sub>
+
+---
+
 ## ⚡ Tech Arsenal
 
 <div align="center">
